@@ -26,7 +26,7 @@ class _BookPageState extends State<BookPage> {
       appBar: AppBar(
         centerTitle: true,
         title: Text(
-          "My Books",
+          "My Books", //title of book page
           style: TextStyle(
             fontSize: 25,
             color: Colors.black,
