@@ -73,14 +73,7 @@ This app follows **Clean Architecture** with 3 layers:
 
 | Book List | Add Book | Edit Book | Delete Confirmation |
 |-----------|----------|-----------|----------------------|
-
-
-![Screenshot_1748747463](https://github.com/user-attachments/assets/d6c84ce7-533d-4266-bb99-d9d2eb47535d)![Screenshot_1748747468](https://github.com/user-attachments/assets/924d88a2-f5d4-42c7-80d2-3ac579e29135)![Screenshot_1748747521](https://github.com/user-attachments/assets/f2b04141-5138-47b4-afce-66effee215ff)![Screenshot_1748747529](https://github.com/user-attachments/assets/795317a1-5b75-4d0c-82b5-12662483640f)
-
-
-
-
-
+| ![Screenshot_1748747463](https://github.com/user-attachments/assets/d6c84ce7-533d-4266-bb99-d9d2eb47535d) | ![Screenshot_1748747468](https://github.com/user-attachments/assets/924d88a2-f5d4-42c7-80d2-3ac579e29135) | ![Screenshot_1748747521](https://github.com/user-attachments/assets/f2b04141-5138-47b4-afce-66effee215ff) | ![Screenshot_1748747529](https://github.com/user-attachments/assets/795317a1-5b75-4d0c-82b5-12662483640f) |
 
 ---
 
