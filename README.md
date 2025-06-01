@@ -82,5 +82,5 @@ This app follows **Clean Architecture** with 3 layers:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flutter-book-crud.git
-cd flutter-book-crud
+git clone [https://github.com/sabari7320/bookcollection.git]
+cd flutter-bookcollection
