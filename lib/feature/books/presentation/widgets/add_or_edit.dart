@@ -64,7 +64,7 @@ class _AddOrEditState extends State<AddOrEdit> {
             },
           ),
           title: Text(
-            widget.apptitle,
+            widget.apptitle, //add_or_edit title
             style: const TextStyle(fontSize: 25, color: Colors.black),
           ),
         ),
